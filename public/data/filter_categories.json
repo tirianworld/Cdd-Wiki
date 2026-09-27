@@ -1,0 +1,27 @@
+{
+  "campaña": [
+    "El Resurgir del Consejo Omega",
+    "Las Doce Marcas",
+    "En el Fin del Mundo"
+  ],
+  "continente": [
+    "Aeros",
+    "Kaliria",
+    "Avalon"
+  ],
+  "plano": [
+    "Material",
+    "El Abismo",
+    "Plano de las Pesadillas"
+  ],
+  "criatura": [
+    "Humano",
+    "Enano",
+    "Elfo",
+    "Orco",
+    "Dragón",
+    "Antiguo",
+    "Portador de Marca",
+    "Demonio"
+  ]
+}

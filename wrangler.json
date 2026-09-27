@@ -8,8 +8,5 @@
     "directory": "./dist",
     "binding": "ASSETS",
     "not_found_handling": "single-page-application"
-  },
-  "vars": {
-    "BACKEND_URL": "https://ais-dev-ubul3fnd577wsbnobnvdjv-685498745515.europe-west2.run.app"
   }
 }

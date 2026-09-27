@@ -31,8 +31,24 @@
     "name": "Clases",
     "slug": "clases",
     "description": "Clases de personajes y criaturas",
-    "color": "#2a216e",
+    "color": "#827ab8",
     "icon": "BookOpen",
     "id": "cat-1787672097323"
+  },
+  {
+    "name": "Mascotas",
+    "slug": "mascotas",
+    "description": "Mascotas de personajes y de jugadores",
+    "color": "#9f5e14",
+    "icon": "PawPrint",
+    "id": "cat-1789848950098"
+  },
+  {
+    "name": "Religiones",
+    "slug": "religiones",
+    "description": "Fés principales",
+    "color": "#d8b87d",
+    "icon": "Coins",
+    "id": "cat-1790333018734"
   }
 ]

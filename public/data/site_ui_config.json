@@ -1,0 +1,82 @@
+{
+  "home.hero.title": "Libro de Tarot",
+  "home.hero.subtitle": "La enciclopedia definitiva del universo de Caldo de Dragón. Explora deidades, primordiales, héroes de leyenda, dragones, órdenes sagradas y reliquias del Mundo.",
+  "home.hero.articlesSuffix": "artículos",
+  "home.hero.categoriesSuffix": "categorías",
+  "home.explore.title": "Explorar por Categoría",
+  "home.featured.title": "Artículos Destacados",
+  "home.latest.title": "Últimos Artículos Añadidos",
+  "nav.brand": "DRAGOPEDIA",
+  "nav.searchPlaceholder": "Buscar...",
+  "nav.section.home": "Home",
+  "nav.menu.inicio": "Inicio",
+  "nav.menu.nuevo": "Nuevo artículo",
+  "nav.section.tarotAI": "Tarot AI",
+  "nav.menu.tarotAI": "Escriba de Tarot AI",
+  "nav.menu.tarotChat": "Chat con Tarot AI",
+  "nav.section.applications": "Aplicaciones",
+  "nav.menu.grafo": "Grafo del mundo",
+  "nav.menu.mundo": "Explorar Mundo",
+  "nav.menu.diario": "Diario del Cazador",
+  "nav.menu.arbol": "Árbol Genealógico",
+  "nav.menu.filtros": "Gestión de Filtros",
+  "nav.categoriesHeader": "Categorías de Lore",
+  "nav.footer.title": "Archivero de Tarot v1.0",
+  "nav.footer.subtitle": "Enciclopedia del universo de Caldo de Dragón.",
+  "events.sectionTitle": "Últimos Acontecimientos",
+  "events.addBtn": "Añadir Acontecimiento",
+  "chatbot.responseFormat": "html",
+  "banner_maps_custom": [
+    {
+      "id": "kaliria",
+      "name": "Kaliria",
+      "subtitle": "El Gran Continente Ancestral",
+      "category": "Cartografía Histórica",
+      "image": "/images/uploads/mapa_kaliria-1790080737133_0rvkv.png",
+      "fallbackImage": "/images/maps/kaliria.png",
+      "accentColor": "#f59e0b",
+      "badgeBg": "bg-amber-500/15 text-amber-300",
+      "badgeBorder": "border-amber-500/30",
+      "description": "",
+      "landmarks": [
+        "La Capital"
+      ],
+      "articleSlug": "kaliria",
+      "isCustom": true
+    },
+    {
+      "id": "aeros",
+      "name": "Aeros",
+      "subtitle": "El Mundo de Caldo de Dragón",
+      "category": "Plano Material & Cosmología",
+      "image": "/images/uploads/mapa_aeros-1790080775040_ndbd2.jpg",
+      "fallbackImage": "/images/maps/aeros.jpg",
+      "accentColor": "#2dd4bf",
+      "badgeBg": "bg-teal-500/15 text-teal-300",
+      "badgeBorder": "border-teal-500/30",
+      "description": "",
+      "landmarks": [
+        "Moonhaven"
+      ],
+      "articleSlug": "aeros",
+      "isCustom": true
+    },
+    {
+      "id": "avalon",
+      "name": "Avalon",
+      "subtitle": "Las Tierras Imperecederas",
+      "category": "Reino Isométrico Celestial",
+      "image": "/images/uploads/mapa_avalon-1790080796039_lcgg4.jpg",
+      "fallbackImage": "/images/maps/avalon.jpg",
+      "accentColor": "#38bdf8",
+      "badgeBg": "bg-sky-500/15 text-sky-300",
+      "badgeBorder": "border-sky-500/30",
+      "description": "",
+      "landmarks": [
+        "Templo Áureo"
+      ],
+      "articleSlug": "avalon",
+      "isCustom": true
+    }
+  ]
+}

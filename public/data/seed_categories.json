@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Planos",
+    "icon": null,
+    "description": null,
+    "color": null,
+    "slug": "planos",
+    "id": "6a21b20b721db0dddbdc7dca",
+    "created_date": "2026-06-04T17:12:43.197000",
+    "updated_date": "2026-06-04T17:12:43.197000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "name": "Gobernantes de planos",
+    "slug": "gobernantes-de-planos",
+    "description": "Criaturas o seres que gobiernan un plano o semiplano entero, no vale que gobiernen un reino dentro de uno",
+    "color": "#95ff82",
+    "icon": "Crown",
+    "id": "cat-1783501330906"
+  }
+]
