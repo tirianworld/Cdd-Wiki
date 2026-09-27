@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Planos",
+    "icon": "Map",
+    "description": "Categoría mística personalizada",
+    "color": "#798681",
+    "slug": "planos",
+    "id": "6a21b20b721db0dddbdc7dca",
+    "created_date": "2026-06-04T17:12:43.197000",
+    "updated_date": "2026-06-04T17:12:43.197000",
+    "created_by_id": "anonymous",
+    "is_sample": false
+  },
+  {
+    "name": "Gobernantes de planos",
+    "slug": "gobernantes-de-planos",
+    "description": "Criaturas o seres que gobiernan un plano o semiplano entero, no vale que gobiernen un reino dentro de uno",
+    "color": "#95ff82",
+    "icon": "Crown",
+    "id": "cat-1783501330906"
+  },
+  {
+    "name": "Magias",
+    "slug": "magias",
+    "description": "Tipos de magia del cosmos",
+    "color": "#203a57",
+    "icon": "Sparkles",
+    "id": "cat-1783711542282"
+  },
+  {
+    "name": "Clases",
+    "slug": "clases",
+    "description": "Clases de personajes y criaturas",
+    "color": "#2a216e",
+    "icon": "BookOpen",
+    "id": "cat-1787672097323"
+  }
+]
